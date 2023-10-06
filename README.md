@@ -1,11 +1,16 @@
-# CODER HOUSE
-In this repository, I'm going to add everything I have learned at Coder House
-
-# Coupon
+# Class 0
 
 > **IMPORTANT**
-> **ref.mateo.43c5** use this coupon and get a 15% discount
+> Datatypes 
 
-# Link
+| Primitive types | Object types |
+|---|---|
+| String | Arrays |
+| Number | Functions |
+| Booleans | Classes |
+| Null | Object Prototype |
+| Undefined | Others |
 
-https://www.coderhouse.com.co/
+
+
+
