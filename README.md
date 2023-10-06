@@ -20,6 +20,6 @@ In JavaScript, the scope is a concept that defines the accessibility or visibili
 
 | Scope | Description |
 |---|---|
-| Global scope | Variables declared outside any function or curly brackets ({}) are in the global scope and can be accessed from any part of the code. |
-| Function scope | Variables declared within a function using the var keyword are in the function scope and can only be accessed within that function or by other functions defined within that function. |
+| Global | Variables declared outside any function or curly brackets ({}) are in the global scope and can be accessed from any part of the code. |
+| Function | Variables declared within a function using the var keyword are in the function scope and can only be accessed within that function or by other functions defined within that function. |
 | Block  | Variables declared within a block (a set of curly brackets {}) using the let or const keyword are in the block scope and can only be accessed within that block. |
