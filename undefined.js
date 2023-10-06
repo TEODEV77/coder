@@ -6,4 +6,4 @@ let state;
 let zip;
 let country;
 
-console.log(country);
+
