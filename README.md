@@ -41,3 +41,7 @@ An IIFE in JavaScript is a function that is invoked or called immediately after 
 })();
 ```
 
+# ES8 - ES2017 
+
+## Object.values/Object.entries: Returns an array of a given object's own enumerable property values/returns an array containing all the [key, value] pairs of a given object's own enumerable string properties.
+
