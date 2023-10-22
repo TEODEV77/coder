@@ -1,13 +1,17 @@
 (() => {
-  let user = {
-    name: "David",
-    age: 28,
-    country: "MX",
+  let client = {
+    firstName: "TEO",
+    nickname: "TEODEV77",
+    city: "Colombia",
+    coins: 70,
   };
 
-  let entries = Object.entries(user);
-  let values = Object.values(user);
-  let keys = Object.keys(user);
+  let keys = Object.keys(client);
+  console.log(keys);
 
-  console.log("Values", values, "Keys", keys);
+  let values = Object.values(client);
+  console.log(values);
+
+  let entries = Object.entries(client);
+  console.log(entries);
 })();
